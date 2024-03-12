@@ -233,7 +233,6 @@
   window.addEventListener('load', () => {
     AOS.init({
       disable: 'mobile',
-      disable: 'tablet',
       duration: 1000,
       easing: 'ease-in-out',
       once: true,
